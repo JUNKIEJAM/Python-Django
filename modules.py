@@ -1,0 +1,1 @@
+# pip is a package-management system written in Python used to install and manage software packages. It connects to an online repository of public and paid-for-private packages, called the Python Package index.
